@@ -5,6 +5,6 @@ number of clients: 1
 number of threads: 1
 number of transactions per client: 10
 number of transactions actually processed: 10/10
-latency average = 3.345 ms
-tps = 298.948988 (including connections establishing)
-tps = 329.288214 (excluding connections establishing)
+latency average = 3.551 ms
+tps = 281.610219 (including connections establishing)
+tps = 328.901766 (excluding connections establishing)
